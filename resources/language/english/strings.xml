@@ -1,0 +1,7 @@
+<strings>
+    <string id="30000">Flickr API Key</string>
+    <string id="30001">Shared Secret</string>
+    <string id="30002">Include Adult Content</string>
+    <string id="30003">Number of Pictures per Page</string>
+    <string id="30004">Include More Details</string>
+</strings>

@@ -1,0 +1,15 @@
+<settings>
+	<category label="General">
+		<setting id="screen_width" type="number" label="Screen width" default="26"/>
+		<setting id="screen_height" type="number" label="Screen height" default="18"/>
+		<setting id="screen_offset" type="number" label="Left offset" default="13"/>
+		<setting type="sep"/>
+		<setting id="static_light" type="bool" label="Static light" default="false"/>
+		<setting id="static_r" type="number" label="red" default="0"/>
+		<setting id="static_g" type="number" label="green" default="0"/>
+		<setting id="static_b" type="number" label="blue" default="30"/>
+	</category>
+	<category label="Communication">
+		<setting id="com_port" type="number" label="Communication port" default="1"/>
+	</category>
+</settings>
